@@ -1,8 +1,10 @@
+import ChatComponent from "./ChatComponent";
+
 function App() {
 
   return (
     <>
-      <div>Work</div>
+      <ChatComponent/>
     </>
   );
 }
